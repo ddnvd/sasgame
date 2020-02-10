@@ -3,8 +3,8 @@
  <!-- versionCode is optional and Android only -->
   <preference name="orientation" value="portrait" />
   <preference name="fullscreen" value="true" />
- <name>SHOBAKA</name> 
-<description>SHOBAKA ADVENTURE
+ <name>RnH:NM</name> 
+<description>Рака и Харалуг: Наследие Мунгитов
 </description> 
 <author href="" email="">ddnvd</author>
 <preference name="android-targetSdkVersion" value="28" />
