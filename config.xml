@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.ddnvd.rnh" versionCode = "40" version = "1.1.0" >
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.ddnvd.dpvjs" versionCode = "40" version = "1.219.3226a" >
  <!-- versionCode is optional and Android only -->
-  <preference name="orientation" value="portrait" />
+  <preference name="orientation" value="landscape" />
   <preference name="fullscreen" value="true" />
- <name>RnH:NM</name> 
-<description>Рака и Харалуг: Наследие Мунгитов
+ <name>DPVJS</name> 
+<description>deaf project video jokey software
 </description> 
 <author href="" email="">ddnvd</author>
 <preference name="android-targetSdkVersion" value="28" />
