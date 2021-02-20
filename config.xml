@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.ddnvd.antifreeze" versionCode = "40" version = "1.0" >
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.ddnvd.parcour" versionCode = "40" version = "1.0" >
  <!-- versionCode is optional and Android only -->
   <preference name="orientation" value="landscape" />
   <preference name="fullscreen" value="true" />
- <name>ANTIFREEZE</name> 
-<description>antifreeze analogue synthesizer
+ <name>ПАР КУР</name> 
+<description>ИГРА ПРО ПАР КУР
 </description> 
 <author href="" email="">ddnvd</author>
 <preference name="android-targetSdkVersion" value="28" />
